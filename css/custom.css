@@ -1,13 +1,24 @@
-/*.head-info{*/
-/*	padding-top: 71px;
+.head-info{
   background-color: #b6d9cd;
-}*/
+}
 
 .social-media-icons{
-	padding-left: 15%;
-	padding-top: 20px;
+	padding-left: 4%;
+	padding-top: 10px;
 }
 
 .btn{
 	border-radius: 35px;
+}
+
+.list-inline > li {
+	padding-left: 0px !important; 
+	padding-right: 0px !important;
+}
+
+.header-text{ padding-left: 15px; }
+
+#div-camera{
+	height: 500px;
+	width: 500px;
 }
